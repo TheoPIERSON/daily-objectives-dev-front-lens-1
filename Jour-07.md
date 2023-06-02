@@ -4,7 +4,7 @@
 
 ### Javascript :
 
-- [] Comprendre l'intérêt et le fonctionnement des boucles en JavaScript (https://fr.javascript.info/while-for)
+- [x] Comprendre l'intérêt et le fonctionnement des boucles en JavaScript (https://fr.javascript.info/while-for)
   - [] while
   - [] do while
   - [] for
